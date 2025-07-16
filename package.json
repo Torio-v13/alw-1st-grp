@@ -1,0 +1,23 @@
+{
+  "name": "alw-1st-grp",
+  "displayName": "Always Open in First Group",
+  "description": "Automatically redirects file opening to Editor Group 1",
+  "icon": "icon.png",
+  "version": "1.0.0",
+  "publisher": "Torio-v13",
+  "engines": {
+    "vscode": "^1.60.0"
+  },
+  "categories": [
+    "Tools"
+  ],
+  "activationEvents": [
+    "*"
+  ],
+  "main": "./extension.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Torio-v13/alw-1st-grp.git"
+  },
+  "contributes": {}
+}
